@@ -1,0 +1,30 @@
+# disable tracker
+0.0.0.0 *.google-analytics.com www.google-analytics.com
+0.0.0.0 *.googletagmanager.com googletagmanager.com
+0.0.0.0 *.googlesyndication.com googlesyndication.com www.googlesyndication.com
+0.0.0.0 hm.baidu.com dlswbr.baidu.com
+0.0.0.0 *.baidustatic.com baidustatic.com www.baidustatic.com
+0.0.0.0 *.scorecardresearch.com scorecardresearch.com
+0.0.0.0 *.bdstatic.com bdstatic.com exp.bdstatic.com s1.bdstatic.com fex.bdstatic.com
+0.0.0.0 zz.bdstatic.com
+0.0.0.0 *.mmstat.com mmstat.com
+0.0.0.0 g.csdnimg.cn
+0.0.0.0 gorgon.youdao.com
+0.0.0.0 media.baidubce.com *.baidubce.com *.media.baidubce.com
+0.0.0.0 suggest.taobao.com top-tmm.taobao.com tmm.taobao.com
+0.0.0.0 p.tanx.com tanx.com *.tanx.com
+0.0.0.0 fragment.tmall.com 
+# 0.0.0.0 login.taobao.com
+0.0.0.0 g.alicdn.com
+# 0.0.0.0 static.360buyimg.com
+0.0.0.0 *.3.cn 3.cn
+0.0.0.0 x.jd.com
+0.0.0.0 static.zhihu.com
+
+58.16.232.254 g.alicdn.com
+
+0.0.0.0 statistic.zhaopin.cn passport.zhaopin.com
+0.0.0.0 static.geetest.com dn-staticdown.qbox.me
+
+0.0.0.0 qcc-static.qichacha.com tongji.qichacha.com
+0.0.0.0 cf.aliyun.com *.tdum.alibaba.com *.tmall.com aldh5.tmall.com
